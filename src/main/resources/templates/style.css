@@ -1,0 +1,13 @@
+body{
+    background-color: #cccccc;
+}
+.bookHeadline{
+    font-size: 12pt;
+    font-weight: bold;
+}
+.bookDesciption{
+    font-size: 10pt;
+}
+label{
+    font-weight: bold;
+}
