@@ -25,6 +25,7 @@ public class ReadingListController {
         if (list!=null){
             model.addAttribute("books",list);
         }
+        //System.out.println("dddd");
         return "readingList";
     }
 
