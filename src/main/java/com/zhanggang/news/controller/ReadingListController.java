@@ -37,7 +37,7 @@ public class ReadingListController {
     }
 
     public static void sleep60s() throws InterruptedException {
-        for (int i=0;i<60;i++)
+        for (int i=0;i<6;i++)
             Thread.sleep(1000);
     }
 }
